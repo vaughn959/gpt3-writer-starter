@@ -14,7 +14,7 @@ const Home = () => {
             <h1>Simplified Painting</h1>
           </div>
           <div className="header-subtitle">
-            <h2>insert your subtitle here</h2>
+            <h2>ask your painting questions</h2>
           </div>
         </div>
       </div>
